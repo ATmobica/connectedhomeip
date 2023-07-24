@@ -48,7 +48,8 @@
                 "vadimcn.vscode-lldb",
                 "xaver.clang-format",
                 "yuichinukiyama.vscode-preview-server",
-                "yzhang.markdown-all-in-one"
+                "yzhang.markdown-all-in-one",
+                "ms-vscode.cmake-tools"
             ],
             "settings": {
                 "terminal.integrated.defaultProfile.linux": "bash",
